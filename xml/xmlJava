@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Personas>
+  <persona>
+    <id>1</id>
+    <nombre>Pepe</nombre>
+    <ciudad>Madrid</ciudad>
+  </persona>
+  <persona>
+    <id>2</id>
+    <nombre>Dan</nombre>
+    <ciudad>Houston</ciudad>
+  </persona>
+  <persona>
+    <id>3</id>
+    <nombre>Jack</nombre>
+    <ciudad>Brisbane</ciudad>
+  </persona>
+</Personas>

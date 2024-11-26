@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Entrenamientos>
+  <entrenamiento id="3">
+    <nombre>Yoga</nombre>
+    <duracion>45</duracion>
+    <nivel>Fácil</nivel>
+  </entrenamiento>
+  <entrenamiento id="4">
+    <nombre>Pilates</nombre>
+    <duracion>50</duracion>
+    <nivel>Intermedio</nivel>
+  </entrenamiento>
+  <entrenamiento id="4">
+    <nombre>Pilates</nombre>
+    <duracion>50</duracion>
+    <nivel>Intermedio</nivel>
+  </entrenamiento>
+</Entrenamientos>
